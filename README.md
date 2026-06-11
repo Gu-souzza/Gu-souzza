@@ -15,9 +15,6 @@ Atualmente estou aprendendo e desenvolvendo conhecimentos em Python, bancos de d
 ## 🌐 Onde Me Encontrar
 
 <p align="left">
-  <a href="https://github.com/Gu-souzza">
-    <img src="https://img.shields.io/badge/GitHub-Gu_Souza-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://www.instagram.com/guu.souzza_/">
     <img src="https://img.shields.io/badge/Instagram-@guu.souzza_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
